@@ -18,7 +18,8 @@ public class UnrealEnginePython : ModuleRules
 
     private string[] windowsKnownPaths =
     {
-        "C:/Program Files/Python37"
+        "C:/Program Files/Python37",
+	"C:/Python37"
     };
 
     private string[] macKnownPaths =
